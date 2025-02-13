@@ -6,7 +6,7 @@ body {
     text-align: center;
 }
 .container {
-    max-width: 1000px;
+    max-width: 1300px;
     margin: 50px auto;
     background: white;
     padding: 20px;
@@ -19,5 +19,6 @@ h1 {
 p {
     color: #666;
     line-height: 1.6;
+    font-size: 25px;
 }
 
